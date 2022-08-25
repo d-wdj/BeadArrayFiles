@@ -1,4 +1,4 @@
-from BeadArrayUtility import read_int, read_string, read_byte
+from .BeadArrayUtility import read_int, read_string, read_byte
 
 class BeadPoolManifest(object):
     """
